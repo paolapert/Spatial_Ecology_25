@@ -18,4 +18,4 @@ plot(elia,vale)
 plot(elia,vale,pch=19)
 
 #to change the color i will use col, to change the dimension i will use cex
-ploy(elia,vale,pch=19,col="blue",cex=2)
+plot(elia,vale,pch=19,col="blue",cex=2)
