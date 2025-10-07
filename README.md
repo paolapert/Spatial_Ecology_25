@@ -6,4 +6,4 @@ This course will be based on:
 + geography
 + remote sensing
 
-to put a link i can put a link [here] (https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/535506)
+to put a link i can put a link [here](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/535506)
