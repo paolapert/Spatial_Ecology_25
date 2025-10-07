@@ -6,4 +6,4 @@ This course will be based on:
 + geography
 + remote sensing
 
-  
+to put a link i can put a link[here] (and the link related here)
